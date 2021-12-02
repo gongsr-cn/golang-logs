@@ -239,6 +239,6 @@ func createFile(filename string) (*os.File, error) {
 // ----------------------------------------------------------------
 func logFormat(lType, str string) string {
 	msg := time.Now().Format("2006-01-02 15:04:05.000000")
-	msg = msg +  lType + " " + str
+	msg = msg +  lType + " " + str + "\n"
 	return msg
 }

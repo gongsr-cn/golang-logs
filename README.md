@@ -8,7 +8,7 @@ go get -u github.com/gongsr-cn/golang-utils
 package main
 import(
     "fmt"
-    Logs "github.com/gongsr-cn/golang-utils/logs"
+    Logs "github.com/gongsr-cn/golang-logs"
 )
 
 func main() {

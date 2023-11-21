@@ -1,6 +1,6 @@
 # golang-utils
 ```go
-go get -u github.com/gongsr-cn/golang-utils
+go get -u github.com/gongsr-cn/golang-logs
 ```
 
 示例
